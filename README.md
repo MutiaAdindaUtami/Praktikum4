@@ -39,7 +39,7 @@ int main()
 3. Membandingkan nilai variable  harga=0,harga_barang=0,total=0,bayar=0,diskon;
 
 **Flowchart Program**
-![Flowchart]()
+![Flowchart](https://github.com/MutiaAdindaUtami/Praktikum4/blob/master/Latihan2/flowchart2.jpg)
 
 **Screenshoot**
 ![Screenshoot]()
