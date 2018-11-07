@@ -10,7 +10,7 @@
 ![Flowchart](https://raw.githubusercontent.com/MutiaAdindaUtami/Praktikum4/master/Latihan1/Flowchart1.jpg)
 
 **Screenshoot**
-![Screenshoot]()
+![Screenshoot](https://raw.githubusercontent.com/MutiaAdindaUtami/Praktikum4/master/Latihan1/Screenshoot1.png)
 
 **code program lengkap**
 '''c++
