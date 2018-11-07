@@ -42,7 +42,7 @@ int main()
 ![Flowchart](https://github.com/MutiaAdindaUtami/Praktikum4/blob/master/Latihan2/flowchart2.jpg)
 
 **Screenshoot**
-![Screenshoot]()
+![Screenshoot](https://raw.githubusercontent.com/MutiaAdindaUtami/Praktikum4/master/Latihan2/Screenshoot2.2.png)
 
 **code program lengkap**
 '''c++
