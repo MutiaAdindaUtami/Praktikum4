@@ -7,7 +7,7 @@
             			 max=a;
 
 **Flowchart Program**
-![Flowchart]()
+![Flowchart](https://raw.githubusercontent.com/MutiaAdindaUtami/Praktikum4/master/Latihan1/Flowchart1.jpg)
 
 **Screenshoot**
 ![Screenshoot]()
